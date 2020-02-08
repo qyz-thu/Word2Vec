@@ -14,4 +14,4 @@ A python implementation of word2vec
 - test the validity of obtained word embedding  
 
 
-The model trained on 2G worth of real text for 40 hours on CPU. Word embedding obtained achieved a Spearman's correlation coefficient of 0.647 in wordsim353 validation set.
+The model trained on 2G worth of real text for 40 hours on CPU. Word embedding obtained achieved a Spearman's correlation coefficient of **0.647** in wordsim353 validation set.
